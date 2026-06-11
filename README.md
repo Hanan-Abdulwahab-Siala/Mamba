@@ -11,6 +11,11 @@ The models are hosted on the Hugging Face Hub. Below are the available versions:
 
 👉 [https://huggingface.co/HA-Siala/Java-OCL-v0.1](https://huggingface.co/HA-Siala/Java-OCL-v0.1)
 
+
+### Version 2
+
+👉 [https://huggingface.co/HA-Siala/Java-OCL-v0.2](https://huggingface.co/HA-Siala/Java-OCL-v0.2)
+
 ---
 
 ## 🚀 ( Base Model + Adapter ) Models
@@ -19,6 +24,10 @@ The models are hosted on the Hugging Face Hub. Below are the available versions:
 ### Version 1 
 
 👉 [https://huggingface.co/HA-Siala/Java-OCL-full-v0.1](https://huggingface.co/HA-Siala/Java-OCL-full-v0.1)
+
+### Version 2 
+
+👉 [https://huggingface.co/HA-Siala/Java-OCL-full-v0.2](https://huggingface.co/HA-Siala/Java-OCL-full-v0.2)
 
 ---
 
