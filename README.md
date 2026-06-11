@@ -22,7 +22,7 @@ The models are hosted on the Hugging Face Hub. Below are the available versions:
 
 ### Version 1 
 
-👉 [https://huggingface.co/HA-Siala/Java-OCL-full-v0.1](https://huggingface.co/HA-Siala/Java-OCL-full-v0.1)
+👉 [https://huggingface.co/HA-Siala/Mamba-v0.2](https://huggingface.co/HA-Siala/Mamba-v0.2)
 
 ### Version 2 
 
