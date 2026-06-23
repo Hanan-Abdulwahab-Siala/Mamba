@@ -1,5 +1,5 @@
 
-# 1 ) Fine-tuned Mistral Model
+# 1 ) Using a Fine-tuned Mistral Model For Detection Flaws in Mamba
 
 The models are hosted on the Hugging Face Hub. Below are the available versions:
 
@@ -28,7 +28,7 @@ The models are hosted on the Hugging Face Hub. Below are the available versions:
 👉 [https://huggingface.co/HA-Siala/Mamba-full-v0.2](https://huggingface.co/HA-Siala/Mamba-full-v0.2)
 
 ---
-# 2 ) Fine-tuned DeepSeek Model
+# 2 ) Using a Fine-tuned DeepSeek Model For Detection Flaws in Mamba
 
 The models are hosted on the Hugging Face Hub. Below are the available versions:
 
