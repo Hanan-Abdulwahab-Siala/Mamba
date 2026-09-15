@@ -32,7 +32,7 @@ The repository provides inference programs for:
 - **Mistral-based** and **DeepSeek-Coder-based** fine-tuned models
 - **LoRA adapter** and **full-model** inference
 
-For the LoRA versions, the base model is downloaded automatically from Hugging Face and the corresponding fine-tuned adapter is loaded.
+For the LoRA versions, the base model is downloaded automatically from Hugging Face, and the corresponding fine-tuned adapter is loaded.
 
 For the full-model versions, the fine-tuned model is loaded directly from Hugging Face.
 
