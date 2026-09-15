@@ -38,8 +38,7 @@ For the full-model versions, the fine-tuned model is loaded directly from Huggin
 
 ## Gradio Interface
 
-For users who prefer a graphical interface, a Gradio-based interface is also available in the related GitHub repository.
-[Code-Analyzer](https://github.com/HA-Siala/Code-Analyzer)
+For users who prefer a graphical interface, a Gradio-based interface is also available in the related GitHub repository, [Code-Analyzer](https://github.com/HA-Siala/Code-Analyzer).
 
 [Gradio Interface](<YOUR-GRADIO-REPOSITORY-URL>)
 
